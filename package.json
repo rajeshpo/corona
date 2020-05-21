@@ -16,9 +16,6 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "engines": {
-    "node": "12.16"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -39,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
